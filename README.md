@@ -28,7 +28,7 @@
 
 ### Задание 2
 ## Ссылка на коммит с .gitignore 
-[link gitignore] https://github.com/Alm798/Git/commit/5645b91b4dc3199db49d14cdd9d1e4dd990ab711
+[link gitignore] https://github.com/Alm798/Git/commit/c760eae8088eb230ef4082d234f06db6db44cfb1
 
 ### Задание 3
 
